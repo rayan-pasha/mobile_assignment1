@@ -1,1 +1,3 @@
-# Simple Morgagte calculator 
+# Simple mortgage calculator 
+
+☕ Built in Java
